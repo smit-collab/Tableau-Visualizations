@@ -1,7 +1,8 @@
 # Tableau-Visualizations
 
-### Data Analysis using Tableau
+## Data Analysis using Tableau
 
+### Foreign direct investment
 I have shown some Tableau Dashboard using datasets. The dataset link is also given. You can also find each of the Tableau Workbook in the folder Workbooks. Please feel free to check out the below images. 
 
 
