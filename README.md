@@ -32,7 +32,7 @@ We can observe from the chart the proportion of each sector in FDI. In 2013 food
 but then from 2014 to 2016, the service sector remains with the highest FDI. Observing forecast chart we can see the forecast for the year 2017 and 2018 and we can easily see that in 2016 FDI drops according to forecast but that is not the case if we compare with the step line chart. and in 2017 and 2018 the FDI increases also
 the upper and lower bound of the forecast is also shown. FDI formula is given and the R squared value is 79 meaning we can depend on that value and P-value is .0001 so if the value is below .005 then the model is accepted.
 
-You can view final version of  two Foreign direct investment dashboards by clicking on link below:
+You can view final version of  two Foreign direct investment dashboards by clicking on link below:<br/>
 [Dashboard 1](https://public.tableau.com/profile/smit106059#!/vizhome/ForeigndirectinvestmentDashboard1/Dashboard1)<br/>
 [Dashboard 2](https://public.tableau.com/profile/smit106059#!/vizhome/ForeigndirectinvestmentDashboard2/Dashboard2)
 
