@@ -16,7 +16,7 @@ I have shown some Tableau Dashboard using datasets. The dataset link is also giv
 Foreign direct investment in a business by an investor from another country for which the foreign investor has control over the company purchased.  in India is a major monetary source for economic development in India. Foreign companies invest directly in many sectors to take benefits of cheaper wages and changing business environment of India. 
 
 ### Dataset
-The dataset contained Foreign direct investment in India for the last 17 years from 2000-01 to 2016-17. It contains sector and Financial year-wise data of FDI in India. I have made a total of two dashboards. The main reason to analyze the data was to observe how the FDI has changed over many years. We can easily observe the change in FDI by observing the step chart that FDI has changed a lot after Narendra Modi's arrival. More information is on the Tableau Public Link provided below.
+The dataset contained Foreign direct investment in India for the last 17 years from 2000-01 to 2016-17. It contains sector and Financial year-wise data of FDI in India. I have made a total of two dashboards. The main reason to analyze the data was to observe how the FDI has changed over many years. We can easily observe the change in FDI by observing the step chart that FDI has changed a lot after Narendra Modi's arrival. 
 
 workbook name : FDI in India Dashboard<br/>
 Dataset : [FDI in India](https://www.kaggle.com/rajanand/fdi-in-india)
