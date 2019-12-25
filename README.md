@@ -23,7 +23,7 @@ workbook name : FDI in India Dashboard<br/>
 Dataset : [FDI in India](https://www.kaggle.com/rajanand/fdi-in-india)
 
 ### Summary:
-Now there when analyzing the FDI over many years in India many important questions need to be answered which determines the FDI trend and if it is increasing or decreasing under the new government. Now if we observe from the max table we can see that the service sector got the most funding in the year 2016. If we properly observe the step chart then we can see that from 2008 the FDI dropped low till 2010 and then increased in 2011 and then kept decreasing again and then kept increasing.
+When analyzing the FDI over many years in India many important questions need to be answered which determines the FDI trend and if it is increasing or decreasing under the new government. Now if we observe from the max table we can see that the service sector got the most funding in the year 2016. If we properly observe the step chart then we can see that from 2008 the FDI dropped low till 2010 and then increased in 2011 and then kept decreasing again and then kept increasing.
 The main reason behind this trend can be that elections were scheduled in 2009 which can be a factor for FDI going down as investors may be worried about what government will be there and what new policies will be. Another reason can be that from 2007 to 2010 in Feb there was a Subprime mortgage crisis in the USA  which can also be a reason and then jumped to 2011 the companies recovered and
 received many packages. In 2005 the FDI suddenly increased to double to 2006.
 Grouping form based on value is done to show that FDI over or equal 1500 for which the sectors are marked blue and red if it is below 1500.
@@ -38,6 +38,42 @@ You can view final version of Foreign direct investment dashboards by clicking o
 [Dashboard 2](https://public.tableau.com/profile/smit106059#!/vizhome/ForeigndirectinvestmentDashboard2/Dashboard2)
 
 
+
+### Superstore Performance Analysis
+![](images/gsp_pic_1.png)<br/>
+![](images/gsp_pic_2.png)<br/>
+![](images/gsp_pic_3.png)<br/>
+![](images/gsp_pic_4.png)<br/>
+![](images/gsp_pic_5.png)<br/>
+
+
+
+
+### About
+The main reason to analyze the data of global superstore perfomance is to find out if the product made loss or profit in the market.If the it was a profit/loss then in which sector and what was the main reason behind it. To answer this interesting questions have a look at the images and feel free to check out the  images and download the workbook.
+
+
+
+### Dataset
+Global Super Store is a data set which has a lot of values. Its a customer centric data set , which has the data of all the orders that have been placed through different vendors and markets.
+
+### Summary
+The first chart tells which country is making profit and which is not. We can observe straight away that turkey,nigeria,pakistan,argentinia are not making profit and USA ,India is making profit.
+
+Next chart shows which prdoucts are making profit. We can observe that technology category is making highest profit.
+and in furniture tables sub-category is makng huge losses.
+so analyzing that the sales of table is 757,042 and the actual cost is 821,125 which means it is making a loss.
+The reason for the loss can be due to huge discounts.
+When analyzing with year data we can see that table profit are declining by the years. The dsicount offered is highest
+when it comes to table for almost 30%. So heavy discounting is eating up profits. Meaning sales are increasing for tables when heavy discounts are there.
+ 
+Furthermore we observe that from the shipping details sheet that most of the profit is from standard class shipping and the shipping cost is also less.
+The discount chart shows that USA has highest discount provided followed by the turkey.
+
+
+You can view final version of Foreign direct investment dashboards by clicking on link below:<br/>
+[Dashboard 3](https://public.tableau.com/profile/smit106059#!/vizhome/GlobalPerfomanceDashboard3/GlobalPerfomance)<br/>
+[Dashboard 4](https://public.tableau.com/profile/smit106059#!/vizhome/ShippingandDiscountdetailsDashboard4/ShippingandDiscount)
 
 
 ## References
