@@ -48,6 +48,7 @@ You can view final version of Foreign direct investment dashboards by clicking o
 
 
 
+### Global superstore perfomance
 
 ### About
 The main reason to analyze the data of global superstore perfomance is to find out if the product made loss or profit in the market.If the it was a profit/loss then in which sector and what was the main reason behind it. To answer this interesting questions have a look at the images and feel free to check out the  images and download the workbook.
@@ -71,7 +72,7 @@ Furthermore we observe that from the shipping details sheet that most of the pro
 The discount chart shows that USA has highest discount provided followed by the turkey.
 
 
-You can view final version of Foreign direct investment dashboards by clicking on link below:<br/>
+You can view final version of Global superstore perfomance dashboards by clicking on link below:<br/>
 [Dashboard 3](https://public.tableau.com/profile/smit106059#!/vizhome/GlobalPerfomanceDashboard3/GlobalPerfomance)<br/>
 [Dashboard 4](https://public.tableau.com/profile/smit106059#!/vizhome/ShippingandDiscountdetailsDashboard4/ShippingandDiscount)
 
