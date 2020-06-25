@@ -51,7 +51,7 @@ You can view final version of Foreign direct investment dashboards by clicking o
 ### Global superstore perfomance
 
 ### About
-The main reason to analyze the data of global superstore perfomance is to find out if the product made loss or profit in the market.If the it was a profit/loss then in which sector and what was the main reason behind it. To answer this interesting questions have a look at the images and feel free to check out the  images and download the workbook.
+The main reason to analyze the data of global superstore performance is to find out if the product made a loss or profit in the market. If it was a profit/loss then in which sector and what was the main reason behind it. Global Super Store is a data set that has a lot of values. Its a customer-centric data set, which has the data of all the orders that have been placed through different vendors and markets.
 
 
 
